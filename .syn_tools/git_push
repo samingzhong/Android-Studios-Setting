@@ -6,8 +6,6 @@ shellDir=$(dirname $0)
 
 echo -e "shellDir:$shellDir\npwd:$(pwd)"
 
-
-
 cd $shellDir
 
 sh .inner_tools/git_push >> syn.log 2>&1
