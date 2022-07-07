@@ -545,3 +545,21 @@ Already up to date.
 
 --------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 14:12:10] ⏫⏫⏫⏫⏫ ----------------
 当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2/.syn_tools/.inner_tools
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+[master c2230fb] 自动同步(push)[at 2022-07-07 14:12:10]
+ 1 file changed, 2 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   ef9ec78..c2230fb  master -> master
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 14:12:14] ⏫⏫⏫⏫⏫ ----------------
+
