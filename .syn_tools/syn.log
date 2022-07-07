@@ -113,3 +113,13 @@ To github.com:samingzhong/xcode-setting.git
 Already up to date.
 --------------- 🔻🔻🔻🔻 pull 执行结束时间[2022-07-07 11:04:04] 🔻🔻🔻🔻 ----------------
 .
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-07 11:24:06] ⏫⏫⏫⏫⏫ ----------------
+[master 26e968c] 自动同步[at 2022-07-07 11:24:06]
+ 1 file changed, 1 insertion(+)
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-07 11:24:06] ⏫⏫⏫⏫⏫ ----------------
+.
