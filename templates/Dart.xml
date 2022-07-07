@@ -1,0 +1,13 @@
+<templateSet group="Dart">
+  <template name="ll" value="print('$END$');" description="print to standard out" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="mm" value="void main (){&#10;  $code$&#10;}" description="void main()" toReformat="true" toShortenFQNames="true">
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>

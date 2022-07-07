@@ -1,0 +1,12 @@
+/git_repo
+/.DS_Store
+/tasks
+/plugins/Dart
+/plugins/meta
+/workspace
+/updatedBrokenPlugins.db
+/port
+/port.lock
+/user.token
+/plugins
+/options
