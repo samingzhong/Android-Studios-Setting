@@ -6,15 +6,9 @@ shellDir=$(dirname $0)
 
 echo -e "shellDir:$shellDir\npwd:$(pwd)"
 
+
+
 cd $shellDir
-
-
-if [[ $?==0 ]]; then
-	echo "路径存在，继续执行"
-else
-	echo "路径不存在，退出处理"
-	exit -1
-fi
 
 sh .inner_tools/git_push >> syn.log 2>&1
 sh .inner_tools/upload_log
