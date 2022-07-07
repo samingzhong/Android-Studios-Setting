@@ -9,8 +9,11 @@ get_current_date (){
 shellDir=$(dirname $0)
 cd "$shellDir"
 
+git status
+
 git add *
-git add ../*
+git add ../*.log
 git add ../../*
-git commit -m  --amend "自动同步(push)[at $(get_current_date)]"
+# git commit -m  --amend "自动同步(push)[at $(get_current_date)]"
+git commit -m "自动同步(push)[at $(get_current_date)]"
 git push -f
