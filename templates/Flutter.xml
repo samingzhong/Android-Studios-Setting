@@ -278,4 +278,18 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="li" value="Log.i('$tag$', '$infoMsg$');" description="Log.i" toReformat="true" toShortenFQNames="true">
+    <variable name="tag" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="infoMsg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="le" value="Log.e('$tag$', '$errorMsg$');" description="Log.e" toReformat="true" toShortenFQNames="true">
+    <variable name="tag" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="errorMsg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>

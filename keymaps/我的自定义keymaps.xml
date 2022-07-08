@@ -1,5 +1,18 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="Android.CleanRun" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
@@ -101,6 +114,8 @@
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Vcs.Log.ShowAllAffected" />
+  <action id="VcsHistory.ShowAllAffected" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
