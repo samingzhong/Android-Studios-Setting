@@ -57,6 +57,7 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
   <action id="Flutter.JumpToSource" />
+  <action id="Flutter.Toolbar.ReloadAction" />
   <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="ImplementMethods" />
   <action id="MethodHierarchy.ImplementMethodAction" />
@@ -108,6 +109,10 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="UsageGrouping.FileStructure" />
   <action id="UsageGrouping.FlattenModules" />

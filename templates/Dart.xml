@@ -10,4 +10,12 @@
       <option name="DART_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="if" value="if ($condition$) {&#10;    $if_code$&#10;} else {&#10;    $else_code$&#10;}" description="if" toReformat="true" toShortenFQNames="true">
+    <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="if_code" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="else_code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
