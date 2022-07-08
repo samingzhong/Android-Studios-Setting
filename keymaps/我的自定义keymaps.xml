@@ -64,8 +64,8 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta alt back_quote" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="meta #10000b7" />
   </action>
   <action id="NextWindow" />
   <action id="OpenModuleSettings">
