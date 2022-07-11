@@ -100,3 +100,23 @@ exit_if_target_dir_not_exit...
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-11 17:50:39] ⏫⏫⏫⏫⏫ ----------------
 当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+fatal: pathspec '"aa\347\232\204\345\211\257\346\234\254"' did not match any files
+[master a6dbe04] 自动同步(push)[at 2022-07-11 17:50:39]
+ 1 file changed, 7 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   dab4e80..a6dbe04  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-11 17:50:43] ⏫⏫⏫⏫⏫ ----------------
+
