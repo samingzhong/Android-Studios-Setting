@@ -17,3 +17,31 @@ workspace
 hint: Use -f if you really want to add them.
 hint: Turn this message off by running
 hint: "git config advice.addIgnoredFile false"
+fatal: No pathspec was given. Which files should I remove?
+[master 2c3d55c] 自动同步(push)[at 2022-07-11 18:16:31]
+ 1 file changed, 19 insertions(+)
+ create mode 100644 .syn.log
+To github.com:samingzhong/Android-Studios-Setting.git
+   f973f7a..2c3d55c  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-11 18:16:35] ⏫⏫⏫⏫⏫ ----------------
+
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-11 18:17:37] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
