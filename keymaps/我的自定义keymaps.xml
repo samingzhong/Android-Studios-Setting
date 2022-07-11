@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt r" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="CollapseSelection" />
   <action id="CompareTwoFiles" />
   <action id="Debugger.EditFrameSource">
     <keyboard-shortcut first-keystroke="f4" />
@@ -109,6 +110,10 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="meta period" />
   </action>
   <action id="ToggleLineBreakpoint">
     <keyboard-shortcut first-keystroke="meta f8" />
