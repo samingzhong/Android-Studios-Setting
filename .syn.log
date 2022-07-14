@@ -687,3 +687,11 @@ workspace
 hint: Use -f if you really want to add them.
 hint: Turn this message off by running
 hint: "git config advice.addIgnoredFile false"
+fatal: No pathspec was given. Which files should I remove?
+[master f2d9f69] 自动同步(push)[at 2022-07-14 20:50:27]
+ 2 files changed, 20 insertions(+), 1 deletion(-)
+To github.com:samingzhong/Android-Studios-Setting.git
+   bdb82eb..f2d9f69  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-14 20:50:31] ⏫⏫⏫⏫⏫ ----------------
+
