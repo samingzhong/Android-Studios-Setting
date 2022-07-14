@@ -7,7 +7,7 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl x" />
+    <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
   <action id="Android.CleanRun" />
   <action id="Annotate">
