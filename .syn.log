@@ -760,3 +760,11 @@ workspace
 hint: Use -f if you really want to add them.
 hint: Turn this message off by running
 hint: "git config advice.addIgnoredFile false"
+fatal: No pathspec was given. Which files should I remove?
+[master 615fff7] 自动同步(push)[at 2022-07-15 20:50:25]
+ 1 file changed, 19 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   e5c4259..615fff7  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-15 20:50:29] ⏫⏫⏫⏫⏫ ----------------
+
