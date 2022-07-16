@@ -880,3 +880,11 @@ workspace
 hint: Use -f if you really want to add them.
 hint: Turn this message off by running
 hint: "git config advice.addIgnoredFile false"
+fatal: No pathspec was given. Which files should I remove?
+[master f8acf3d] 自动同步(push)[at 2022-07-17 01:31:44]
+ 1 file changed, 19 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+   57fc706..f8acf3d  master -> master
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-17 01:31:49] ⏫⏫⏫⏫⏫ ----------------
+
