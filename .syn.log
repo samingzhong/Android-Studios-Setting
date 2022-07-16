@@ -806,10 +806,17 @@ To github.com:samingzhong/Android-Studios-Setting.git
 
 running script .inner_tools/git_pull...
 $0:.inner_tools/git_pull
+<<<<<<< Updated upstream
 $1:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2
 exit_if_target_dir_not_exit...
 ---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 🔻🔻🔻🔻 ----------------
 ---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-16 09:00:26] 🔻🔻🔻🔻 ----------------
+=======
+$1:/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-16 21:30:27] 🔻🔻🔻🔻 ----------------
+>>>>>>> Stashed changes
 git stash push...
 The following paths are ignored by one of your .gitignore files:
 options
@@ -824,6 +831,7 @@ hint: Use -f if you really want to add them.
 hint: Turn this message off by running
 hint: "git config advice.addIgnoredFile false"
 fatal: No pathspec was given. Which files should I remove?
+<<<<<<< Updated upstream
 running script .inner_tools/git_push...
 $0:.inner_tools/git_push
 $1:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2
@@ -851,3 +859,5 @@ To github.com:samingzhong/Android-Studios-Setting.git
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-16 20:50:32] ⏫⏫⏫⏫⏫ ----------------
 
+=======
+>>>>>>> Stashed changes
