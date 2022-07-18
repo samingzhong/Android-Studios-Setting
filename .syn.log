@@ -939,6 +939,7 @@ To github.com:samingzhong/Android-Studios-Setting.git
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-17 20:50:32] ⏫⏫⏫⏫⏫ ----------------
 
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
 running script .inner_tools/git_push...
@@ -948,6 +949,15 @@ exit_if_target_dir_not_exit...
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-07-18 00:32:14] ⏫⏫⏫⏫⏫ ----------------
 当前目录:/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2
+=======
+running script .inner_tools/git_pull...
+$0:.inner_tools/git_pull
+$1:/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2
+exit_if_target_dir_not_exit...
+---------------🔻🔻🔻🔻🔻 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 🔻🔻🔻🔻 ----------------
+---------------🔻🔻🔻🔻🔻 pull 开始执行[2022-07-18 11:34:00] 🔻🔻🔻🔻 ----------------
+git stash push...
+>>>>>>> Stashed changes
 The following paths are ignored by one of your .gitignore files:
 options
 plugins
@@ -961,6 +971,7 @@ hint: Use -f if you really want to add them.
 hint: Turn this message off by running
 hint: "git config advice.addIgnoredFile false"
 fatal: No pathspec was given. Which files should I remove?
+<<<<<<< Updated upstream
 [master 4a852c5] 自动同步(push)[at 2022-07-18 00:32:14]
  1 file changed, 19 insertions(+)
 To github.com:samingzhong/Android-Studios-Setting.git
@@ -968,3 +979,5 @@ To github.com:samingzhong/Android-Studios-Setting.git
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-07-18 00:32:18] ⏫⏫⏫⏫⏫ ----------------
 
+=======
+>>>>>>> Stashed changes
