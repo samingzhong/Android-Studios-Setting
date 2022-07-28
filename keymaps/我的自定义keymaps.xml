@@ -2,6 +2,9 @@
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="ActivateFlutterInspectorToolWindow">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
@@ -144,5 +147,6 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>
