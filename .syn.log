@@ -1634,3 +1634,30 @@ To github.com:samingzhong/Android-Studios-Setting.git
 --------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/samingzhong/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
 --------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-01 20:50:31] ⏫⏫⏫⏫⏫ ----------------
 
+running script .inner_tools/git_push...
+$0:.inner_tools/git_push
+$1:/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2
+exit_if_target_dir_not_exit...
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 开始执行[2022-08-02 00:30:35] ⏫⏫⏫⏫⏫ ----------------
+当前目录:/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2
+The following paths are ignored by one of your .gitignore files:
+options
+plugins
+port
+port.lock
+tasks
+updatedBrokenPlugins.db
+user.token
+workspace
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+fatal: No pathspec was given. Which files should I remove?
+[master 343f69f] 自动同步(push)[at 2022-08-02 00:30:35]
+ 1 file changed, 19 insertions(+)
+To github.com:samingzhong/Android-Studios-Setting.git
+ + 31a1d63...343f69f master -> master (forced update)
+--------------- ⏫⏫⏫⏫⏫ 目标仓库：/Users/zhongxm/Library/Application Support/Google/AndroidStudio2021.2 ⏫⏫⏫⏫⏫ ----------------
+--------------- ⏫⏫⏫⏫⏫ push 执行结束时间[2022-08-02 00:30:40] ⏫⏫⏫⏫⏫ ----------------
+
