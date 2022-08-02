@@ -137,6 +137,10 @@
   </action>
   <action id="Vcs.Log.ShowAllAffected" />
   <action id="VcsHistory.ShowAllAffected" />
+  <action id="ViewBreakpoints">
+    <keyboard-shortcut first-keystroke="shift meta f8" />
+    <keyboard-shortcut first-keystroke="meta alt 4" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
